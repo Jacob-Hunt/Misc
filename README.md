@@ -4,6 +4,8 @@ A repository where I upload code/script which isn't part of a broader project or
 
 -Jacob Hunt (jacobhuntemail@gmail.com)
 
-# File Information:
+---------------
+
+File Information:
 
 "pw_crypt.py": A short, simple Python script to generate hashed Unix passwords.
